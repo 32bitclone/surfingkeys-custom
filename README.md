@@ -1,2 +1,1 @@
-# surfingkeys-custom
-customized surfingkeys extension with a fix of the 'ctrl-h' &amp; 'ctrl-6' shortcuts 
+This is a custom version of [Surfingkeys](https://github.com/brookhong/Surfingkeys) Firefox extension, which fixes the https://github.com/brookhong/Surfingkeys/issues/2087 issue by removing hard-coded values in the source code.
